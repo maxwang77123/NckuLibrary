@@ -7,7 +7,7 @@
 4. 登入學校id, password
 ---
 ![Imgur](https://i.imgur.com/z53NMjh.png)
-
+個人化服務中可找到自己有興趣建立之[主題]
 ![Imgur](https://i.imgur.com/TFoJ1nH.png)
-
-！[Imgur](https://i.imgur.com/c7R8Otv.png)
+平常搜尋資料時，可以再打勾，並加入主題列表之中
+![Imgur](https://i.imgur.com/c7R8Otv.png)
