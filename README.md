@@ -7,3 +7,7 @@
 4. 登入學校id, password
 ---
 ![Imgur](https://i.imgur.com/z53NMjh.png)
+
+![Imgur](https://i.imgur.com/TFoJ1nH.png)
+
+！[Imgur](https://i.imgur.com/c7R8Otv.png)
